@@ -1660,6 +1660,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PY.STRING.U">
+      <value>
+        <option name="FOREGROUND" value="bfbf" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PY.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="f99157" />

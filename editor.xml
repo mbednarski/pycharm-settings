@@ -1,7 +1,4 @@
 <application>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
-  </component>
   <component name="InspectionProfileManager">
     <info color="ffffcc">
       <option name="FOREGROUND" value="ffffff" />
@@ -22,5 +19,9 @@
       <item index="7" class="java.lang.String" itemvalue="Compability Issue" />
       <item index="8" class="java.lang.String" itemvalue="ERROR" />
     </list>
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>

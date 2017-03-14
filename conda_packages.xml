@@ -212,12 +212,12 @@
         <entry key="iopro" value="1.9.1" />
         <entry key="ipaddress" value="1.0.18" />
         <entry key="ipykernel" value="4.5.2" />
-        <entry key="ipyparallel" value="5.2.0" />
+        <entry key="ipyparallel" value="6.0.2" />
         <entry key="ipython" value="5.3.0" />
         <entry key="ipython-notebook" value="4.0.4" />
         <entry key="ipython-qtconsole" value="4.0.1" />
         <entry key="ipython_genutils" value="0.1.0" />
-        <entry key="ipywidgets" value="5.2.2" />
+        <entry key="ipywidgets" value="6.0.0" />
         <entry key="iso8601" value="0.1.11" />
         <entry key="isort" value="4.2.5" />
         <entry key="itsdangerous" value="0.24" />
@@ -521,7 +521,7 @@
         <entry key="mklfft" value="2.1" />
         <entry key="mock" value="2.0.0" />
         <entry key="mongo-driver" value="0.7.1" />
-        <entry key="more-itertools" value="2.2" />
+        <entry key="more-itertools" value="2.5.0" />
         <entry key="mpi4py" value="2.0.0" />
         <entry key="mpld3" value="0.2" />
         <entry key="mpmath" value="0.19" />
@@ -554,7 +554,7 @@
         <entry key="nose" value="1.3.7" />
         <entry key="nose-parameterized" value="0.5.0" />
         <entry key="nosexcover" value="1.0.11" />
-        <entry key="notebook" value="4.3.1" />
+        <entry key="notebook" value="4.4.1" />
         <entry key="nsis" value="3.01" />
         <entry key="numba" value="0.31.0" />
         <entry key="numbapro" value="0.23.1" />
@@ -678,7 +678,7 @@
         <entry key="qtawesome" value="0.4.4" />
         <entry key="qtconsole" value="4.2.1" />
         <entry key="qtpy" value="1.2.1" />
-        <entry key="quandl" value="3.0.1" />
+        <entry key="quandl" value="3.1.0" />
         <entry key="queuelib" value="1.4.2" />
         <entry key="r" value="3.3.2" />
         <entry key="r-acepack" value="1.4.1" />
@@ -976,7 +976,7 @@
         <entry key="scikit-learn" value="0.18.1" />
         <entry key="scikit-rf" value="0.14.3" />
         <entry key="scikits-image" value="0.7.1" />
-        <entry key="scipy" value="0.18.1" />
+        <entry key="scipy" value="0.19.0" />
         <entry key="scons" value="2.3.0" />
         <entry key="scrapy" value="1.1.1" />
         <entry key="seaborn" value="0.7.1" />
@@ -1063,11 +1063,11 @@
         <entry key="webob" value="1.6.1" />
         <entry key="websocket" value="0.2.1" />
         <entry key="webtest" value="2.0.23" />
-        <entry key="werkzeug" value="0.11.15" />
+        <entry key="werkzeug" value="0.12" />
         <entry key="wget" value="2.2" />
         <entry key="wheel" value="0.29.0" />
         <entry key="whoosh" value="2.7.4" />
-        <entry key="widgetsnbextension" value="1.2.6" />
+        <entry key="widgetsnbextension" value="2.0.0" />
         <entry key="win_inet_pton" value="1.0.1" />
         <entry key="win_unicode_console" value="0.5" />
         <entry key="workerpool" value="0.9.4" />
@@ -3612,6 +3612,7 @@
               <option value="5.0.1" />
               <option value="4.0.1" />
               <option value="4.0.0" />
+              <option value="6.0.2" />
             </list>
           </value>
         </entry>
@@ -3703,6 +3704,7 @@
               <option value="4.0.3" />
               <option value="4.0.2" />
               <option value="4.1.0" />
+              <option value="6.0.0" />
             </list>
           </value>
         </entry>
@@ -6062,6 +6064,7 @@
           <value>
             <list>
               <option value="2.2" />
+              <option value="2.5.0" />
             </list>
           </value>
         </entry>
@@ -6369,6 +6372,7 @@
               <option value="4.0.2" />
               <option value="4.0.4" />
               <option value="4.2.0" />
+              <option value="4.4.1" />
             </list>
           </value>
         </entry>
@@ -7774,6 +7778,7 @@
               <option value="3.0.1" />
               <option value="2.8.8" />
               <option value="2.8.7" />
+              <option value="3.1.0" />
             </list>
           </value>
         </entry>
@@ -10226,6 +10231,7 @@
               <option value="0.15.0" />
               <option value="0.13.0" />
               <option value="0.18.0" />
+              <option value="0.19.0" />
             </list>
           </value>
         </entry>
@@ -11150,6 +11156,7 @@
               <option value="0.11.9" />
               <option value="0.11.10" />
               <option value="0.11.3" />
+              <option value="0.12" />
             </list>
           </value>
         </entry>
@@ -11184,6 +11191,7 @@
           <value>
             <list>
               <option value="1.2.6" />
+              <option value="2.0.0" />
             </list>
           </value>
         </entry>
@@ -11453,6 +11461,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1489410761637" />
+    <option name="LAST_TIME_CHECKED" value="1489508244714" />
   </component>
 </application>

@@ -614,7 +614,7 @@
         <entry key="proj4" value="4.9.2" />
         <entry key="prompt_toolkit" value="1.0.13" />
         <entry key="pscp" value="0.65" />
-        <entry key="psutil" value="5.2.0" />
+        <entry key="psutil" value="5.2.1" />
         <entry key="psycopg2" value="2.7.1" />
         <entry key="py" value="1.4.33" />
         <entry key="pyamg" value="2.2.1" />
@@ -7122,6 +7122,7 @@
               <option value="0.6.1" />
               <option value="4.1.0" />
               <option value="5.2.0" />
+              <option value="5.2.1" />
             </list>
           </value>
         </entry>
@@ -11524,6 +11525,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1490343523434" />
+    <option name="LAST_TIME_CHECKED" value="1490602851575" />
   </component>
 </application>

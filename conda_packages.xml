@@ -89,7 +89,7 @@
         <entry key="comtypes" value="1.1.2" />
         <entry key="conda" value="4.3.14" />
         <entry key="conda-api" value="1.1.0" />
-        <entry key="conda-build" value="2.1.7" />
+        <entry key="conda-build" value="2.1.8" />
         <entry key="conda-build-all" value="1.0.2" />
         <entry key="conda-env" value="2.6.0" />
         <entry key="conda-manager" value="0.4.0" />
@@ -501,7 +501,7 @@
         <entry key="make" value="3.82" />
         <entry key="mako" value="1.0.6" />
         <entry key="markdown" value="2.6.7" />
-        <entry key="markdown2" value="2.3.2" />
+        <entry key="markdown2" value="2.3.3" />
         <entry key="markupsafe" value="0.23" />
         <entry key="mathjax" value="2.2" />
         <entry key="matplotlib" value="2.0.0" />
@@ -1066,7 +1066,7 @@
         <entry key="webob" value="1.6.1" />
         <entry key="websocket" value="0.2.1" />
         <entry key="webtest" value="2.0.23" />
-        <entry key="werkzeug" value="0.12" />
+        <entry key="werkzeug" value="0.12.1" />
         <entry key="wget" value="2.2" />
         <entry key="wheel" value="0.29.0" />
         <entry key="whoosh" value="2.7.4" />
@@ -2325,6 +2325,7 @@
               <option value="2.1.5" />
               <option value="2.1.6" />
               <option value="2.1.7" />
+              <option value="2.1.8" />
             </list>
           </value>
         </entry>
@@ -5856,6 +5857,7 @@
               <option value="2.3.2" />
               <option value="2.3.1" />
               <option value="2.3.0" />
+              <option value="2.3.3" />
             </list>
           </value>
         </entry>
@@ -11213,6 +11215,7 @@
               <option value="0.11.10" />
               <option value="0.11.3" />
               <option value="0.12" />
+              <option value="0.12.1" />
             </list>
           </value>
         </entry>
@@ -11525,6 +11528,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1490602851575" />
+    <option name="LAST_TIME_CHECKED" value="1490696164437" />
   </component>
 </application>

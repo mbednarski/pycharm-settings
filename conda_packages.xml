@@ -216,7 +216,7 @@
         <entry key="ipython" value="5.3.0" />
         <entry key="ipython-notebook" value="4.0.4" />
         <entry key="ipython-qtconsole" value="4.0.1" />
-        <entry key="ipython_genutils" value="0.1.0" />
+        <entry key="ipython_genutils" value="0.2.0" />
         <entry key="ipywidgets" value="6.0.0" />
         <entry key="iso8601" value="0.1.11" />
         <entry key="isort" value="4.2.5" />
@@ -594,7 +594,7 @@
         <entry key="pep381client" value="1.5" />
         <entry key="pep8" value="1.7.0" />
         <entry key="perl" value="5.20.3.1" />
-        <entry key="persistent" value="4.2.2" />
+        <entry key="persistent" value="4.2.4" />
         <entry key="phantomjs" value="2.1.1" />
         <entry key="pickleshare" value="0.7.4" />
         <entry key="pil" value="1.1.7" />
@@ -3709,6 +3709,7 @@
           <value>
             <list>
               <option value="0.1.0" />
+              <option value="0.2.0" />
             </list>
           </value>
         </entry>
@@ -6895,6 +6896,7 @@
               <option value="4.1.0" />
               <option value="4.2.2" />
               <option value="4.2.1" />
+              <option value="4.2.4" />
             </list>
           </value>
         </entry>
@@ -11528,6 +11530,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1490696164437" />
+    <option name="LAST_TIME_CHECKED" value="1490783982328" />
   </component>
 </application>

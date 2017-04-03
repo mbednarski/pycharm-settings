@@ -25,7 +25,7 @@
         <entry key="argcomplete" value="1.0.0" />
         <entry key="argparse" value="1.3.0" />
         <entry key="astroid" value="1.4.9" />
-        <entry key="astropy" value="1.3.1" />
+        <entry key="astropy" value="1.3.2" />
         <entry key="atom" value="0.3.10" />
         <entry key="attrs" value="15.2.0" />
         <entry key="automat" value="0.5.0" />
@@ -682,7 +682,7 @@
         <entry key="qt" value="5.6.2" />
         <entry key="qt5" value="5.4.0" />
         <entry key="qtawesome" value="0.4.4" />
-        <entry key="qtconsole" value="4.2.1" />
+        <entry key="qtconsole" value="4.3.0" />
         <entry key="qtpy" value="1.2.1" />
         <entry key="quandl" value="3.1.0" />
         <entry key="queuelib" value="1.4.2" />
@@ -953,6 +953,7 @@
         <entry key="r-weatherdata" value="0.4.1" />
         <entry key="r-whisker" value="0.3_2" />
         <entry key="r-withr" value="1.0.2" />
+        <entry key="r-xgboost" value="0.60" />
         <entry key="r-xlsx" value="0.5.7" />
         <entry key="r-xlsxjars" value="0.6.1" />
         <entry key="r-xml" value="3.98_1.5" />
@@ -1420,6 +1421,7 @@
               <option value="1.2.1" />
               <option value="0.4rc1" />
               <option value="1.3.1" />
+              <option value="1.3.2" />
             </list>
           </value>
         </entry>
@@ -7840,6 +7842,7 @@
               <option value="4.1.0" />
               <option value="4.0.1" />
               <option value="4.0.0" />
+              <option value="4.3.0" />
             </list>
           </value>
         </entry>
@@ -10006,6 +10009,13 @@
             </list>
           </value>
         </entry>
+        <entry key="r-xgboost">
+          <value>
+            <list>
+              <option value="0.60" />
+            </list>
+          </value>
+        </entry>
         <entry key="r-xlsx">
           <value>
             <list>
@@ -11564,6 +11574,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1490950832260" />
+    <option name="LAST_TIME_CHECKED" value="1491211365250" />
   </component>
 </application>

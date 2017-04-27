@@ -1,19 +1,20 @@
 <scheme name="Default copy" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2016-11-14T14:56:32</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.2.3.0.0</property>
-    <property name="modified">2017-04-11T09:38:20</property>
+    <property name="modified">2017-04-27T21:33:31</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <attributes>
-    <option name="TEXT">
-      <value />
+    <option name="PY.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ff000a" />
+      </value>
     </option>
   </attributes>
 </scheme>

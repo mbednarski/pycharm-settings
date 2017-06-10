@@ -3,6 +3,6 @@
     <option name="LOGIN" value="mbednarski" />
     <option name="AUTH_TYPE" value="BASIC" />
     <option name="PRIVATE_GIST" value="false" />
-    <option name="VALID_GIT_AUTH" value="false" />
+    <option name="SAVE_PASSWORD" value="false" />
   </component>
 </application>

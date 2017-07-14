@@ -14,7 +14,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="25">
+        <list size="26">
           <item index="0" class="java.lang.String" itemvalue="scipy" />
           <item index="1" class="java.lang.String" itemvalue="six" />
           <item index="2" class="java.lang.String" itemvalue="python-Levenshtein" />
@@ -40,6 +40,7 @@
           <item index="22" class="java.lang.String" itemvalue="packaging" />
           <item index="23" class="java.lang.String" itemvalue="sortedcontainers" />
           <item index="24" class="java.lang.String" itemvalue="pyqt5" />
+          <item index="25" class="java.lang.String" itemvalue="zmq" />
         </list>
       </value>
     </option>

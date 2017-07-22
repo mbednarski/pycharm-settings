@@ -22,6 +22,7 @@
         <entry key="anaconda-project" value="0.6.0" />
         <entry key="anaconda-verify" value="1.3.8" />
         <entry key="ansi2html" value="1.1.1" />
+        <entry key="ant" value="1.10.1" />
         <entry key="anyqt" value="0.0.8" />
         <entry key="appdirs" value="1.4.0" />
         <entry key="apptools" value="4.4.0" />
@@ -689,6 +690,7 @@
         <entry key="openjdk" value="8.17.0.3" />
         <entry key="openldap" value="2.4.36" />
         <entry key="openpyxl" value="2.4.7" />
+        <entry key="openrefine" value="2.7" />
         <entry key="openssl" value="1.0.2l" />
         <entry key="oracle-instantclient" value="11.2.0.4.0" />
         <entry key="orange" value="2.7.8" />
@@ -781,7 +783,7 @@
         <entry key="pygments" value="2.2.0" />
         <entry key="pygpu" value="0.6.8" />
         <entry key="pyhive" value="0.2.1" />
-        <entry key="pykerberos" value="1.1.10" />
+        <entry key="pykerberos" value="1.1.14" />
         <entry key="pykit" value="0.2.0" />
         <entry key="pylearn2" value="0.6.stable.201601.18.g517dc87" />
         <entry key="pylint" value="1.6.4" />
@@ -1143,7 +1145,7 @@
         <entry key="requests" value="2.14.2" />
         <entry key="requests-file" value="1.4.1" />
         <entry key="requests-ftp" value="0.3.1" />
-        <entry key="requests-kerberos" value="0.8.0" />
+        <entry key="requests-kerberos" value="0.11.0" />
         <entry key="responses" value="0.5.1" />
         <entry key="rope" value="0.9.4" />
         <entry key="routes" value="2.2" />
@@ -1573,6 +1575,13 @@
             <list>
               <option value="1.1.1" />
               <option value="1.1.0" />
+            </list>
+          </value>
+        </entry>
+        <entry key="ant">
+          <value>
+            <list>
+              <option value="1.10.1" />
             </list>
           </value>
         </entry>
@@ -7942,6 +7951,13 @@
             </list>
           </value>
         </entry>
+        <entry key="openrefine">
+          <value>
+            <list>
+              <option value="2.7" />
+            </list>
+          </value>
+        </entry>
         <entry key="openssl">
           <value>
             <list>
@@ -8888,6 +8904,7 @@
           <value>
             <list>
               <option value="1.1.10" />
+              <option value="1.1.14" />
             </list>
           </value>
         </entry>
@@ -9376,6 +9393,7 @@
           <value>
             <list>
               <option value="0.194" />
+              <option value="0.20" />
             </list>
           </value>
         </entry>
@@ -12149,6 +12167,7 @@
           <value>
             <list>
               <option value="0.8.0" />
+              <option value="0.11.0" />
             </list>
           </value>
         </entry>
@@ -13928,6 +13947,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1500654938485" />
+    <option name="LAST_TIME_CHECKED" value="1500746035104" />
   </component>
 </application>

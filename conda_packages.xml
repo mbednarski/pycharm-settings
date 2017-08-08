@@ -311,6 +311,7 @@
         <entry key="jupyter_client" value="5.1.0" />
         <entry key="jupyter_console" value="5.1.0" />
         <entry key="jupyter_core" value="4.3.0" />
+        <entry key="jupyter_dashboards_bundlers" value="0.9.1" />
         <entry key="kealib" value="1.4.6" />
         <entry key="keras" value="2.0.5" />
         <entry key="keras-gpu" value="2.0.5" />
@@ -334,7 +335,7 @@
         <entry key="libgcc" value="5.2.0" />
         <entry key="libgdal" value="2.1.0" />
         <entry key="libgfortran" value="3.0" />
-        <entry key="libgpuarray" value="0.6.8" />
+        <entry key="libgpuarray" value="0.6.9" />
         <entry key="libgsasl" value="1.8.0" />
         <entry key="libhdfs3" value="2.2.31" />
         <entry key="libhlc" value="0.1" />
@@ -784,7 +785,7 @@
         <entry key="pyface" value="5.1.0" />
         <entry key="pyflakes" value="1.5.0" />
         <entry key="pygments" value="2.2.0" />
-        <entry key="pygpu" value="0.6.8" />
+        <entry key="pygpu" value="0.6.9" />
         <entry key="pyhive" value="0.4.0" />
         <entry key="pykerberos" value="1.1.14" />
         <entry key="pykit" value="0.2.0" />
@@ -800,6 +801,7 @@
         <entry key="pyopengl-accelerate" value="3.1.1a1" />
         <entry key="pyopenssl" value="17.0.0" />
         <entry key="pyparsing" value="2.2.0" />
+        <entry key="pyprof2calltree" value="1.4.3" />
         <entry key="pyproj" value="1.9.5.1" />
         <entry key="pyqt" value="5.6.0" />
         <entry key="pyqt5" value="5.3.2" />
@@ -818,7 +820,7 @@
         <entry key="pysnmp" value="4.3.2" />
         <entry key="pysocks" value="1.6.6" />
         <entry key="pystan" value="2.14.0.0" />
-        <entry key="pytables" value="3.3.0" />
+        <entry key="pytables" value="3.4.2" />
         <entry key="pytest" value="3.1.3" />
         <entry key="pytest-asyncio" value="0.6.0" />
         <entry key="pytest-cache" value="1.0" />
@@ -855,6 +857,7 @@
         <entry key="pywin32" value="220" />
         <entry key="pyyaml" value="3.12" />
         <entry key="pyzmq" value="16.0.2" />
+        <entry key="qcachegrind" value="0.7.4" />
         <entry key="qgrid" value="0.3.3" />
         <entry key="qt" value="5.6.2" />
         <entry key="qt5" value="5.4.0" />
@@ -1074,6 +1077,7 @@
         <entry key="r-repr" value="0.10" />
         <entry key="r-reshape" value="0.8.6" />
         <entry key="r-reshape2" value="1.4.2" />
+        <entry key="r-reticulate" value="1.0" />
         <entry key="r-rex" value="1.1.1" />
         <entry key="r-rgexf" value="0.15.3" />
         <entry key="r-rgl" value="0.98.1" />
@@ -1108,6 +1112,7 @@
         <entry key="r-selectr" value="0.3_1" />
         <entry key="r-shiny" value="1.0.3" />
         <entry key="r-shinybs" value="0.61" />
+        <entry key="r-shinycssloaders" value="0.2.0" />
         <entry key="r-shinydashboard" value="0.6.0" />
         <entry key="r-shinyjs" value="0.9" />
         <entry key="r-shinysky" value="2.0.0" />
@@ -1126,7 +1131,7 @@
         <entry key="r-stringr" value="1.2.0" />
         <entry key="r-strucchange" value="1.5_1" />
         <entry key="r-survival" value="2.41_3" />
-        <entry key="r-tensorflow" value="0.4.0" />
+        <entry key="r-tensorflow" value="0.8.2" />
         <entry key="r-testit" value="0.7" />
         <entry key="r-testthat" value="1.0.2" />
         <entry key="r-th.data" value="1.0_8" />
@@ -4853,6 +4858,13 @@
             </list>
           </value>
         </entry>
+        <entry key="jupyter_dashboards_bundlers">
+          <value>
+            <list>
+              <option value="0.9.1" />
+            </list>
+          </value>
+        </entry>
         <entry key="kealib">
           <value>
             <list>
@@ -5064,6 +5076,7 @@
               <option value="0.6.2" />
               <option value="0.6.4" />
               <option value="0.6.8" />
+              <option value="0.6.9" />
             </list>
           </value>
         </entry>
@@ -8972,6 +8985,7 @@
               <option value="0.6.2" />
               <option value="0.6.4" />
               <option value="0.6.8" />
+              <option value="0.6.9" />
             </list>
           </value>
         </entry>
@@ -9117,6 +9131,13 @@
               <option value="2.1.1" />
               <option value="2.0.1" />
               <option value="2.2.0" />
+            </list>
+          </value>
+        </entry>
+        <entry key="pyprof2calltree">
+          <value>
+            <list>
+              <option value="1.4.3" />
             </list>
           </value>
         </entry>
@@ -9283,6 +9304,7 @@
               <option value="3.1.0" />
               <option value="3.2.1" />
               <option value="3.2.3.1" />
+              <option value="3.4.2" />
             </list>
           </value>
         </entry>
@@ -9652,6 +9674,13 @@
               <option value="14.1.1" />
               <option value="16.0.1" />
               <option value="2.2.0" />
+            </list>
+          </value>
+        </entry>
+        <entry key="qcachegrind">
+          <value>
+            <list>
+              <option value="0.7.4" />
             </list>
           </value>
         </entry>
@@ -11668,6 +11697,13 @@
             </list>
           </value>
         </entry>
+        <entry key="r-reticulate">
+          <value>
+            <list>
+              <option value="1.0" />
+            </list>
+          </value>
+        </entry>
         <entry key="r-rex">
           <value>
             <list>
@@ -11957,6 +11993,13 @@
             </list>
           </value>
         </entry>
+        <entry key="r-shinycssloaders">
+          <value>
+            <list>
+              <option value="0.2.0" />
+            </list>
+          </value>
+        </entry>
         <entry key="r-shinydashboard">
           <value>
             <list>
@@ -12128,6 +12171,7 @@
           <value>
             <list>
               <option value="0.4.0" />
+              <option value="0.8.2" />
             </list>
           </value>
         </entry>
@@ -14371,6 +14415,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1502129565092" />
+    <option name="LAST_TIME_CHECKED" value="1502217721154" />
   </component>
 </application>

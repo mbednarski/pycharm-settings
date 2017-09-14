@@ -115,7 +115,7 @@
         <entry key="comtypes" value="1.1.2" />
         <entry key="conda" value="4.3.25" />
         <entry key="conda-api" value="1.1.0" />
-        <entry key="conda-build" value="3.0.15" />
+        <entry key="conda-build" value="3.0.17" />
         <entry key="conda-build-all" value="1.0.2" />
         <entry key="conda-env" value="2.6.0" />
         <entry key="conda-manager" value="0.4.0" />
@@ -129,7 +129,7 @@
         <entry key="constantly" value="15.1.0" />
         <entry key="constructor" value="1.5.5" />
         <entry key="contextlib2" value="0.5.5" />
-        <entry key="continuum-docs" value="2.0.15" />
+        <entry key="continuum-docs" value="2.0.16" />
         <entry key="cookies" value="2.2.1" />
         <entry key="cornice" value="1.2.1" />
         <entry key="coverage" value="4.4.1" />
@@ -366,7 +366,7 @@
         <entry key="lighttpd" value="1.4.45" />
         <entry key="line_profiler" value="2.0" />
         <entry key="llvm" value="3.3" />
-        <entry key="llvmlite" value="0.19.0" />
+        <entry key="llvmlite" value="0.20.0" />
         <entry key="llvmmath" value="0.1.2" />
         <entry key="llvmpy" value="0.12.7" />
         <entry key="lmdb" value="0.9.21" />
@@ -684,7 +684,7 @@
         <entry key="nosexcover" value="1.0.11" />
         <entry key="notebook" value="5.0.0" />
         <entry key="nsis" value="3.01" />
-        <entry key="numba" value="0.34.0" />
+        <entry key="numba" value="0.35.0" />
         <entry key="numbapro" value="0.23.1" />
         <entry key="numbapro_cudalib" value="0.2" />
         <entry key="numexpr" value="2.6.2" />
@@ -1240,7 +1240,7 @@
         <entry key="sphinxcontrib" value="1.0" />
         <entry key="sphinxcontrib-websupport" value="1.0.1" />
         <entry key="sputnik" value="0.9.3" />
-        <entry key="spyder" value="3.2.1" />
+        <entry key="spyder" value="3.2.3" />
         <entry key="spyder-app" value="2.3.8" />
         <entry key="sqlalchemy" value="1.1.13" />
         <entry key="sqlite" value="3.13.0" />
@@ -2875,6 +2875,8 @@
               <option value="3.0.13" />
               <option value="3.0.14" />
               <option value="3.0.15" />
+              <option value="3.0.16" />
+              <option value="3.0.17" />
             </list>
           </value>
         </entry>
@@ -3033,6 +3035,7 @@
               <option value="2.0.11" />
               <option value="2.0.12" />
               <option value="2.0.15" />
+              <option value="2.0.16" />
             </list>
           </value>
         </entry>
@@ -5368,6 +5371,7 @@
               <option value="0.17.0" />
               <option value="0.18.0" />
               <option value="0.19.0" />
+              <option value="0.20.0" />
             </list>
           </value>
         </entry>
@@ -7918,6 +7922,7 @@
               <option value="0.32.0" />
               <option value="0.33.0" />
               <option value="0.34.0" />
+              <option value="0.35.0" />
             </list>
           </value>
         </entry>
@@ -13353,6 +13358,8 @@
               <option value="3.1.4" />
               <option value="3.2.0" />
               <option value="3.2.1" />
+              <option value="3.2.2" />
+              <option value="3.2.3" />
             </list>
           </value>
         </entry>
@@ -14550,6 +14557,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1504718151655" />
+    <option name="LAST_TIME_CHECKED" value="1505415648049" />
   </component>
 </application>

@@ -113,7 +113,7 @@
         <entry key="colorama" value="0.3.9" />
         <entry key="colorcet" value="0.9.1" />
         <entry key="comtypes" value="1.1.2" />
-        <entry key="conda" value="4.3.27" />
+        <entry key="conda" value="4.3.30" />
         <entry key="conda-api" value="1.1.0" />
         <entry key="conda-build" value="3.0.19" />
         <entry key="conda-build-all" value="1.0.2" />
@@ -1006,6 +1006,7 @@
         <entry key="r-labeling" value="0.3" />
         <entry key="r-lahman" value="6.0_0" />
         <entry key="r-lars" value="1.2" />
+        <entry key="r-later" value="0.6" />
         <entry key="r-lattice" value="0.20_35" />
         <entry key="r-latticeextra" value="0.6_28" />
         <entry key="r-lava" value="1.5.1" />
@@ -1064,9 +1065,12 @@
         <entry key="r-pki" value="0.1_5.1" />
         <entry key="r-plm" value="1.6_5" />
         <entry key="r-plogr" value="0.1_1" />
+        <entry key="r-plotly" value="4.7.1" />
+        <entry key="r-plumber" value="0.4.2" />
         <entry key="r-plyr" value="1.8.4" />
         <entry key="r-png" value="0.1_7" />
         <entry key="r-polspline" value="1.1.12" />
+        <entry key="r-pool" value="0.1.3" />
         <entry key="r-praise" value="1.0.0" />
         <entry key="r-proc" value="1.10.0" />
         <entry key="r-processx" value="2.0.0.1" />
@@ -1116,9 +1120,11 @@
         <entry key="r-rjsonio" value="1.3_0" />
         <entry key="r-rlang" value="0.1.2" />
         <entry key="r-rlist" value="0.4.6.1" />
+        <entry key="r-rmariadb" value="1.0_2" />
         <entry key="r-rmarkdown" value="1.6" />
         <entry key="r-rmr2" value="3.3.1" />
         <entry key="r-rms" value="5.1_1" />
+        <entry key="r-rmysql" value="0.10.13" />
         <entry key="r-rngtools" value="1.2.4" />
         <entry key="r-robustbase" value="0.92_7" />
         <entry key="r-rocr" value="1.0_7" />
@@ -2794,6 +2800,7 @@
               <option value="4.3.24" />
               <option value="4.3.25" />
               <option value="4.3.27" />
+              <option value="4.3.30" />
             </list>
           </value>
         </entry>
@@ -11141,6 +11148,13 @@
             </list>
           </value>
         </entry>
+        <entry key="r-later">
+          <value>
+            <list>
+              <option value="0.6" />
+            </list>
+          </value>
+        </entry>
         <entry key="r-lattice">
           <value>
             <list>
@@ -11679,6 +11693,20 @@
             </list>
           </value>
         </entry>
+        <entry key="r-plotly">
+          <value>
+            <list>
+              <option value="4.7.1" />
+            </list>
+          </value>
+        </entry>
+        <entry key="r-plumber">
+          <value>
+            <list>
+              <option value="0.4.2" />
+            </list>
+          </value>
+        </entry>
         <entry key="r-plyr">
           <value>
             <list>
@@ -11699,6 +11727,13 @@
           <value>
             <list>
               <option value="1.1.12" />
+            </list>
+          </value>
+        </entry>
+        <entry key="r-pool">
+          <value>
+            <list>
+              <option value="0.1.3" />
             </list>
           </value>
         </entry>
@@ -12140,6 +12175,13 @@
             </list>
           </value>
         </entry>
+        <entry key="r-rmariadb">
+          <value>
+            <list>
+              <option value="1.0_2" />
+            </list>
+          </value>
+        </entry>
         <entry key="r-rmarkdown">
           <value>
             <list>
@@ -12168,6 +12210,13 @@
           <value>
             <list>
               <option value="5.1_1" />
+            </list>
+          </value>
+        </entry>
+        <entry key="r-rmysql">
+          <value>
+            <list>
+              <option value="0.10.13" />
             </list>
           </value>
         </entry>
@@ -14882,6 +14931,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1509050958231" />
+    <option name="LAST_TIME_CHECKED" value="1512218593629" />
   </component>
 </application>
